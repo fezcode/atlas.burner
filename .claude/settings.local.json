@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(go build:*)",
+      "WebFetch(domain:releases.ubuntu.com)",
+      "WebFetch(domain:download.fedoraproject.org)",
+      "WebFetch(domain:cdimage.debian.org)",
+      "WebFetch(domain:mirrors.kernel.org)",
+      "WebFetch(domain:geo.mirror.pkgbuild.com)",
+      "WebFetch(domain:download.opensuse.org)",
+      "WebFetch(domain:download.manjaro.org)",
+      "WebFetch(domain:iso.pop-os.org)",
+      "WebFetch(domain:cdimage.kali.org)",
+      "WebFetch(domain:download.rockylinux.org)",
+      "WebFetch(domain:repo.almalinux.org)",
+      "WebFetch(domain:download.freebsd.org)",
+      "WebFetch(domain:cdn.openbsd.org)",
+      "WebFetch(domain:cdn.netbsd.org)",
+      "WebFetch(domain:mirror-master.dragonflybsd.org)",
+      "WebFetch(domain:download.ghostbsd.org)",
+      "WebFetch(domain:manjaro.org)"
+    ]
+  }
+}
